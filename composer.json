@@ -1,0 +1,7 @@
+{
+    "name": "10xjzheng/yii2-crontab",
+    "description": "a component for crontab",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {}
+}
